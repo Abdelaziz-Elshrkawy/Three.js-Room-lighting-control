@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.toggle {
+  position: absolute;
+  top: 5%;
+  padding: 5px 15px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#on {
+  left: 40%;
+  background-color: #2f2;
+}
+#off {
+  left: 50%;
+  background-color: #f22;
+}
