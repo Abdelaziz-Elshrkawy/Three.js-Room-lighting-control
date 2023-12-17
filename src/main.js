@@ -9,7 +9,7 @@ import {
   doorWall1,
   roof,
 } from "./walls";
-import DegToRad from "./DegreeToRadious";
+import DegToRad from "./DegreeToRadius";
 
 let width = window.innerWidth;
 let height = window.innerHeight;

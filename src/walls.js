@@ -1,5 +1,5 @@
 import BlockGenerator from "./Block";
-import DegToRad from "./DegreeToRadious";
+import DegToRad from "./DegreeToRadius;
 import { wallColor } from "./colors";
 
 const y = 3;
